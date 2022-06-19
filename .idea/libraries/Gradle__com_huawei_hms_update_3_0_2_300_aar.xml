@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:update:3.0.2.300@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/858060a6ee2515a0ad1e9dd343ab225e/transformed/jetified-update-3.0.2.300/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/858060a6ee2515a0ad1e9dd343ab225e/transformed/jetified-update-3.0.2.300/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/858060a6ee2515a0ad1e9dd343ab225e/transformed/jetified-update-3.0.2.300/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
